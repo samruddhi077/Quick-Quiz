@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Inside which HTML element do we put the JavaScript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "Which attribute is used to provide an image source?",
+        "choice1": "href",
+        "choice2": "link",
+        "choice3": "src",
+        "choice4": "alt",
+        "answer": 3
+    },
+    {
+        "question": "Which HTML element is used for the largest heading?",
+        "choice1": "<h6>",
+        "choice2": "<heading>",
+        "choice3": "<h1>",
+        "choice4": "<head>",
+        "answer": 3
+    }
+]
